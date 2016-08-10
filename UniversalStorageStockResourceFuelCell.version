@@ -1,0 +1,16 @@
+{
+    "NAME":"Universal Storage - Stock Resource Fuel Cell",
+    "GITHUB":
+    {
+        "USERNAME":"QuickBASIC",
+        "REPOSITORY":"UniversalStorageStockResourceFuelCell",
+        "ALLOW_PRE_RELEASE":false,
+    },
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":1,
+        "PATCH":0,
+        "BUILD":0
+    },
+}
